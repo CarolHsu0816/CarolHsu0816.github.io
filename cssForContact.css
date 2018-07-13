@@ -1,0 +1,25 @@
+body {background-color: rgb(190,190,190);}
+
+.content{background-color: black;
+text-align: center;
+margin: auto;
+color:white;
+padding-bottom: 10px;}
+
+.menu 
+{
+margin-top: 20px;
+	background-color: rgb(50,50,50);
+word-spacing: 10px;
+color: white;
+text-align: center;
+padding-bottom: 100px;
+padding-top: 70px;
+font-size: 20px;}
+
+img {width:300px;
+height:300px;
+padding-left: 500px;
+margin:auto;
+}
+a {color: white;}

@@ -1,0 +1,25 @@
+ h1 {background-color: rgb(0,0,0);
+ 	color: white;
+ 	text-align: center;
+ 	padding-bottom: 30px;
+ 	padding-top: 30px;
+ 	font-size: 30px;
+ }
+ h2 {text-align: center;}
+
+ .content {margin-left: 300px;
+ 	margin-right: 100px;}
+ .menu {position: fixed;
+ 	float: left;
+ 	background-color: rgb(110,110,110);
+ 	padding-left: 100px;
+ 	padding-right: 100px;
+ 	padding-top: 100px;
+ 	padding-bottom: 600px;
+ 	margin-top: -70px;
+ }
+ .class {margin-right: 0px;}
+a {color: white;}
+.links{color: black;}
+
+
