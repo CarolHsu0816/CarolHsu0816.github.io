@@ -1,14 +1,20 @@
+ 
+body {text-align: center;}
  h1 {background-color: rgb(0,0,0);
  	color: white;
- 	text-align: center;
+ 	
  	padding-bottom: 30px;
  	padding-top: 30px;
  	font-size: 30px;
  }
- h2 {text-align: center;}
+ 
 
- .content {margin-left: 300px;
- 	margin-right: 100px;}
+ .content {
+ 	padding-left: 300px;
+ 	
+ 	font-size: 20px;
+ 	padding-right: 300px;
+ }
  .menu {position: fixed;
  	float: left;
  	background-color: rgb(110,110,110);
@@ -20,6 +26,11 @@
  }
  .class {margin-right: 0px;}
 a {color: white;}
-.links{color: black;}
-
+.links-one{
+	color: black;
+	text-decoration: none;
+}
+.links-two {color: black;
+font-weight:bold;
+text-decoration: none;}
 
